@@ -47,7 +47,7 @@
     --job_font: #CACCCE;
     --nav_font: #8d7edc;
     --nav_font_hover: #D4CEF2;
-    --shadow_color: rgba(160, 160, 160, 0.05);
+    --shadow_color: rgba(0, 0, 0, 1);
     --post_title: #9ebaa0;
     --post_date: #e9ead7;
     --post_text: #CACCCE;
@@ -144,7 +144,7 @@ img {
     position: relative;
     min-height: 85%;
     border-radius: 15px;
-    box-shadow: 0 0 2px 2px var(--shadow_color);
+    box-shadow: 0 0 0px 0px var(--shadow_color);
     padding-bottom: 2rem;
 
     @include breakpoint(medium) {
