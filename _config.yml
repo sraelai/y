@@ -20,7 +20,7 @@ cusdis:
     app_id: #your cusdis app_id
 
 user:
-  name: false
+  name: null
   pic: /assets/img/cat.jpg
   picAlt: "catbook"
   job: sobre o que conversamos por aqui?
