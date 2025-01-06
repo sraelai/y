@@ -1,5 +1,5 @@
 
-title: null #Your awesome title
+title: "Israela Santos" #Your awesome title
 email: #youremail@domain.com
 description: > # this means to ignore newlines until "baseurl"
   Write an awesome description for your new site here. You can edit this
@@ -20,7 +20,7 @@ cusdis:
     app_id: #your cusdis app_id
 
 user:
-  name: Israela Santos
+  name: false
   pic: /assets/img/cat.jpg
   picAlt: "catbook"
   job: sobre o que conversamos por aqui?
