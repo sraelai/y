@@ -10,7 +10,7 @@ baseurl: # the subpath of the site
 url: http://sraelai.github.io/y # the base hostname & protocol for your site
 
 permalink: /:year-:month/:title
-timezone: GMT -3
+timezone: GMT-3
 
 favicon: /assets/img/favicon.ico
 
