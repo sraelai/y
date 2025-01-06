@@ -21,8 +21,8 @@ cusdis:
 
 user:
   name: null
-  pic: /assets/img/cat.jpg
-  picAlt: "catbook"
+  pic: null /assets/img/cat.jpg
+  picAlt: null "catbook"
   job: null
   aboutme: null # comment this out if you don't need the 'about' page.
 
