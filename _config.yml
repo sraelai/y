@@ -22,7 +22,7 @@ cusdis:
 user:
   name: null
   pic: null
-  picAlt: null # identifica a img entre " "
+  picAlt: # identifica a img entre " "
   job: null
   aboutme: null # comment this out if you don't need the 'about' page.
 
