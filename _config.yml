@@ -17,7 +17,15 @@ favicon: /assets/img/favicon.ico
 google_analytics: #UA—XXXXXXXX-X
 disqus_shortname: #disqus shortname
 cusdis:
-    app_id: #your cusdis app_id
+    app_id: <div id="cusdis_thread"
+  data-host="https://cusdis.com"
+  data-app-id="2967808d-3c31-47b3-b7f7-15ab478617d4"
+  data-page-id="{{ PAGE_ID }}"
+  data-page-url="{{ PAGE_URL }}"
+  data-page-title="{{ PAGE_TITLE }}"
+></div>
+<script async defer src="https://cusdis.com/js/cusdis.es.js"></script>
+ #your cusdis app_id
 
 user:
   name: null
