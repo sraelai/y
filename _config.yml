@@ -21,8 +21,8 @@ cusdis:
 
 user:
   name: null
-  pic: null
-  picAlt: # identifica a img entre " "
+  pic: /assets/img/ondinha.jpg
+  picAlt: "ondinha"
   job: null
   aboutme: null # comment this out if you don't need the 'about' page.
 
