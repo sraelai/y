@@ -542,7 +542,11 @@ img {
     color: var(--post_date);
     letter-spacing: -0.5px;
     line-height: 0.5;
-    font-size: 0.8rem;
+    font-size: 1.2rem;
+
+  @include mobile-only {
+        font-size: 0.8rem;
+    }
 }
 
 .post_categories {
