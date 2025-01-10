@@ -263,6 +263,7 @@ img {
 }
 
 .archive_title {
+    font-size: 1rem;
     word-wrap: normal;
     @include breakpoint(medium) {
         max-width: 80%;
