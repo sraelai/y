@@ -255,7 +255,7 @@ img {
 
 .archive_date {
     text-transform: uppercase;
-    font-size: 0.8rem
+    font-size: 0.5rem
 
     @include breakpoint(medium) {
         float: right;
@@ -518,7 +518,7 @@ img {
 
 .post_title {
     color: var(--post_title);
-    font-size: 1.6rem;
+    font-size: 1rem;
     line-height: 2.2rem;
     font-weight: 700;
 
@@ -542,10 +542,10 @@ img {
     color: var(--post_date);
     letter-spacing: -0.5px;
     line-height: 0.5;
-    font-size: 1rem;
+    font-size: 0.8rem;
 
   @include mobile-only {
-        font-size: 0.8rem;
+        font-size: 0.5rem;
     }
 }
 
