@@ -254,7 +254,7 @@ img {
 }
 
 .archive_date {
-    text-transform: uppercase;
+    text-transform: lowercase;
     font-size: 0.5rem
 
     @include breakpoint(medium) {
